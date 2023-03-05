@@ -64,6 +64,8 @@ int main() {
   /// Create a GLFW window.
   ///
 
+  ::glfwInitHint(GLFW_PLATFORM_WAYLAND, GLFW_TRUE);
+
   if (::glfwInit() != GLFW_TRUE) {
     std::cerr << "Couldn't initialize GLFW." << std::endl;
     return EXIT_FAILURE;

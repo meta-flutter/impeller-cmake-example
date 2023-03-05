@@ -151,7 +151,7 @@ bool MeshExample::Setup(impeller::Context& context) {
       .depth_write_enabled = true,
   });
   pipeline_ =
-      context.GetPipelineLibrary()->GetPipeline(pipeline_desc).get();
+      context.GetPipelineLibrary()->GetPipeline(pipeline_desc).Get();
   if (!pipeline_ || !pipeline_->IsValid()) {
     std::cerr << "Failed to initialize pipeline for mesh example.";
     return false;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/assimp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/abseil-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/angle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/flatbuffers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/inja" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/shaderc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/shaderc/third_party/effcee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/shaderc/third_party/glslang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/shaderc/third_party/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/shaderc/third_party/re2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/shaderc/third_party/spirv-headers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/shaderc/third_party/spirv-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/impeller-cmake/third_party/spirv_cross" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/stb" vcs="Git" />
+  </component>
+</project>
